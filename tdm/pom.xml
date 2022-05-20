@@ -14,7 +14,7 @@
 
   <properties>
     <restAssured.ver>3.1.0</restAssured.ver>
-    <gson.ver>2.8.0</gson.ver>
+    <gson.ver>2.8.9</gson.ver>
     <jersey.ver>2.25.1</jersey.ver>
     <serenity.ver>1.8.1</serenity.ver>
     <cucumber.ver>1.6.5</cucumber.ver>
